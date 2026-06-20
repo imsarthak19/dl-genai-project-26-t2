@@ -1,2 +1,4 @@
 # DLGenAI_Project
-Test
+Project title: Smart MCQ Solver
+Sarthak Chaudhary - 23f1000304
+Empty folder structure (e.g., /scripts, /notebooks, /data).
